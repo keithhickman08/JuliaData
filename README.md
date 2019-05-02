@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![Genie Logo](https://dl.dropboxusercontent.com/s/0dbiza50r63cvvc/genie_logo.png)
 
 [![Stable](https://readthedocs.org/projects/docs/badge/?version=stable)](http://geniejl.readthedocs.io/en/stable/build/)
@@ -1335,3 +1336,7 @@ TODO
 
 * Genie uses a multitude of packages that have been kindly contributed by the Julia community.
 * The awesome Genie logo was designed by my friend Alvaro Casanova (www.yeahstyledg.com).
+=======
+# JuliaData
+Implementation of REST API in Julia using Genie
+>>>>>>> 47ab288a37c96f81865889b947c9fc3ae699958c
