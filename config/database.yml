@@ -4,6 +4,9 @@ dev:
   adapter:
   database:
   host:
+  adapter:
+  database:
+  host:
   username:
   password:
   port:
