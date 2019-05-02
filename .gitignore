@@ -6,6 +6,7 @@ docs/build
 log/*
 session/*
 !*.gitkeep
+data/
 
 # Vagrant
 .vagrant
@@ -22,6 +23,7 @@ Vagrantfile
 *.vi
 *~
 *.sass-cache
+*.txt
 
 # OS or Editor folders
 .DS_Store
