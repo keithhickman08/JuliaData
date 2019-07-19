@@ -16,9 +16,7 @@ To implement:
 
 ```pip install -r requirements.txt```
 
-If you haven't already, you'll need to configure your aws credentials using 
-
-```aws configure``` 
+If you haven't already, you'll need to configure your aws credentials by including them in the AWS Config file usually located at ~/.aws/config 
 
 Input your key, key id, default region (e.g. us-east-2), and output format (e.g. json). 
 
